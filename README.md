@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jamiemccann
+- Currently a PhD student at the University of Cambridge studying Volcano seismology :) 
+- Trying to navigate my way through the wonderful world of scientific programming and data analysis
